@@ -1,1 +1,1 @@
-# Store-Client
+# Store-Client - React + Tailwind
